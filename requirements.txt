@@ -1,0 +1,8 @@
+
+nltk
+torch
+numpy
+textwrap
+transformers
+beautifulsoup4
+gradio
